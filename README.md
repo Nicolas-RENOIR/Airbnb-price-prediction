@@ -1,2 +1,1 @@
-# AirbnbPricePrediction
-Predicted Airbnb prices by cleaning and analyzing a comprehensive dataset of listings, identifying trends, and establishing key connections 💵
+The final project for my 'Data Analysis' class focused on predicting Airbnb prices by cleaning the data, identifying trends, and establishing relevant connections. We utilized a comprehensive dataset that included detailed descriptions of multiple Airbnb listings. Our objective was to test various artificial intelligence models to determine the most relevant features of an Airbnb listing and accurately predict its price.
